@@ -19,6 +19,8 @@ namespace hellow
         public MainWindow()
         {
             InitializeComponent();
+            // 初回リリースでは「Hello, World!」と表示
+            MessageTextBlock.Text = "Hello, World!";
         }
     }
 }
