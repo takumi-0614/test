@@ -1,0 +1,4 @@
+# Visual Studio 一時ファイルおよびビルド結果を除外する
+.vs/
+bin/
+obj/
